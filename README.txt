@@ -1,8 +1,35 @@
 # Capston Project
 
-The project is : 
+#PreProduction
+
+#Idea
+
 The player tries to find a truck toy in the store and gives it to the kid for him to stop crying and become happy during 3 minutes.
 
+When I brainstorm about the storyline and the theme of the store, 
+I wanted it to be something familiar to users so I have choices( toys r us ) as the old brand of toys for kids,
+I loved this brand as I was a kid and it's something only achievable in a virtual world because (toys r us does not exist now). 
+
+
+Initial ideas from brainstorming
+================================
+a game for fun to make a little boy stop crying
+
+1- scale
+2- locomotion
+3- gamification
+4- empathy(crying)
+5-animation
+6- Diegetic UI (the reason of crying)
+7- computer shader (in middle tree)
+8-  TV video player
+9 - physics (gapping the to reponse to gravity)
+
+
+user test:
+================================
+    user1 :"the kid hasn't cry all the time is's an annying sound"
+	user2: "butting algit above trees"
 Emotions: Crying & Laughing.
 
 ## Versions
