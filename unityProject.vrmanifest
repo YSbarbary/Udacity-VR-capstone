@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_capstone.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\GitHubRepositories\\VR_Capstone\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Capstone [Testing]"
+        }
+      }
+    }
+  ]
+}
