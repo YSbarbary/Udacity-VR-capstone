@@ -57,11 +57,12 @@ Video:(https://youtu.be/9V1d_hCMu58)
 10- User Testing achievement
 
 
-- Sound effects form: (https://freesound.org)
-   1. City Sound "Out of the Store".
-   2. Crying Sound.
-   3. Laughs Sound.
-   4. Video Sound.
+- Sound effects form: 
+   1. City Sound "Out of the Store".(https://soundcloud.com/yasser-albarbary1/londonstreetsound-1)
+   
+   2. Crying Sound. (https://soundcloud.com/yasser-albarbary1/cryingsound-1)
+   3. Laughs Sound.(https://soundcloud.com/yasser-albarbary1/londonstreetsound-1)
+   4. Video Sound.(https://soundcloud.com/yasser-albarbary1/1985-toys-r-us-toys-r-us-kid-jingle)
 
 - Charchter & Animation: from
 https://www.mixamo.com/
